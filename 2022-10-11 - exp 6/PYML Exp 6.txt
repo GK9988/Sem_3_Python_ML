@@ -1,0 +1,2 @@
+PYML EXP 6
+Create a dataframe that contains the student details (10 rows). It must contain 6 columns - UID, Name, Name of Program, Phone NO., City, email Id. Create the values using dictionary of series.

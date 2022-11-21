@@ -1,0 +1,4 @@
+Questions for Experiment 5
+
+1. Create 1D, 2D, 3D array in numpy. also 2D user defined
+2. To solve a polynomial using numpy arrays.

@@ -1,0 +1,5 @@
+Questions for exp 2:
+
+    1. Write a program to find the average score of a strudent in physics, chemistry and maths which help them to qualify for a medical education or engineering education. If the average score is greater than or equal to 98, the candidate is eligible for scholarship and not eligible for scholarship otherwise.
+
+    2. 
